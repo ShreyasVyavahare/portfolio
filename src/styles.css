@@ -1,0 +1,11 @@
+/* src/styles.css */
+
+body {
+    padding-top: 70px; /* To prevent the content from being hidden behind the Navbar */
+  }
+  
+  /* Smooth scrolling behavior */
+  html {
+    scroll-behavior: smooth;
+  }
+  
